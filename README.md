@@ -2,30 +2,75 @@
 
 ![Status](https://img.shields.io/badge/status-development-orange)
 
-SQL Monitor is an open-source seismic observation platform developed by Sapporo Quake Lab.
+SQL Monitorは、**Sapporo Quake Lab**が開発するオープンソースの地震観測ソフトウェアです。
 
-## Overview
+## 📖 概要
 
-SQL Monitor aims to connect seismic observation stations across Japan in real time.
+市販・自作を問わず様々な地震観測機を接続し、
+リアルタイムで観測データを取得・送信・表示できるソフトウェアを目指しています。
 
-The project supports both commercial and self-built seismometers.
+将来的には、全国の観測者が協力し合える
+**リアルタイム地震観測ネットワーク**の構築を目標としています。
 
-## Planned Features
+---
 
-- EQIS-1 support
-- ESP32 support
-- Raspberry Pi support
-- Real-time data transmission
-- Station management
-- Open API
+## ✨ 開発目標
 
-## Project Status
+- 全国の観測者をリアルタイムでつなぐ
+- 市販・自作問わず様々な観測機に対応
+- オープンソースで開発
+- 防災・研究・教育へ活用できるプラットフォームを目指す
 
-🚧 Under development
+---
 
-## License
+## 🔧 対応予定機器
 
-To be decided
+- EQIS-1
+- 自作震度計（ESP32）
+- Raspberry Pi
+- その他対応可能な観測機器
+
+---
+
+## 🚧 開発状況
+
+現在は設計・仕様策定段階です。
+
+開発は段階的に進めており、Issue・Projectsにて進捗を公開しています。
+
+---
+
+## 📅 開発予定
+
+- [x] プロジェクト立ち上げ
+- [x] 仕様書作成
+- [ ] UI設計
+- [ ] 通信プロトコル設計
+- [ ] SQL Network Server開発
+- [ ] EQIS-1対応
+- [ ] 初版リリース（v0.1）
+
+---
+
+## 🤝 コントリビューション
+
+SQL Monitorはオープンソースプロジェクトです。
+
+バグ報告、機能提案、コードの改善など、どなたでも歓迎します。
+
+---
+
+## 📄 ライセンス
+
+ライセンスは現在検討中です。
+
+---
+
+## 🏢 開発
+
+**Sapporo Quake Lab**
+
+「全国の観測者を、ひとつのネットワークへ。」
 
 
 

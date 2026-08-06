@@ -1,18 +1,24 @@
 # SQL Monitor
 
-![Status](https://img.shields.io/badge/status-development-orange)
+> 全国の観測者を、ひとつのネットワークへ。
 
-SQL Monitorは、**Sapporo Quake Lab**が開発するオープンソースの地震観測ソフトウェアです。
-
-## 📖 概要
-
-市販・自作を問わず様々な地震観測機を接続し、
-リアルタイムで観測データを取得・送信・表示できるソフトウェアを目指しています。
-
-将来的には、全国の観測者が協力し合える
-**リアルタイム地震観測ネットワーク**の構築を目標としています。
+SQL Monitorは、市販・自作を問わず様々な地震観測機に対応した
+リアルタイム地震観測プラットフォームです。
 
 ---
+## 📚 ドキュメント
+
+詳細なプロジェクト概要や仕様については、以下をご覧ください。
+
+- [プロジェクト概要](docs/PROJECT.md)
+- [仕様書](docs/SPECIFICATION.md)
+- [ロードマップ](docs/ROADMAP.md)
+- [通信仕様](docs/PROTOCOL.md)
+---
+
+## 🤝 参加
+
+Issue・Pull Request大歓迎です！
 
 ## ✨ 開発目標
 
@@ -66,21 +72,6 @@ SQL Monitorはオープンソースプロジェクトです。
 
 ---
 
-## 🏢 開発
-
-**Sapporo Quake Lab**
-
-「全国の観測者を、ひとつのネットワークへ。」
-
-
-## 📚 ドキュメント
-
-詳細なプロジェクト概要や仕様については、以下をご覧ください。
-
-- [プロジェクト概要](docs/PROJECT.md)
-- [仕様書](docs/SPECIFICATION.md)
-- [ロードマップ](docs/ROADMAP.md)
-- [通信仕様](docs/PROTOCOL.md)
 
 
 "上記の文章はChatGPTを使用して作成しました。"

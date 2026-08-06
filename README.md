@@ -73,5 +73,14 @@ SQL Monitorはオープンソースプロジェクトです。
 「全国の観測者を、ひとつのネットワークへ。」
 
 
+## 📚 ドキュメント
 
-上記の文章はChatGPTを使用して作成しました。
+詳細なプロジェクト概要や仕様については、以下をご覧ください。
+
+- [プロジェクト概要](docs/PROJECT.md)
+- [仕様書](docs/SPECIFICATION.md)
+- [ロードマップ](docs/ROADMAP.md)
+- [通信仕様](docs/PROTOCOL.md)
+
+
+"上記の文章はChatGPTを使用して作成しました。"
